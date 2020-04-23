@@ -1,2 +1,2 @@
 # JustGame
-Fun game project on Python for my practice. 
+Fun game project on Python for practice. 
